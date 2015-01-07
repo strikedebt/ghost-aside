@@ -1,0 +1,1 @@
+sudo cp -R . /var/www/ghost/content/themes/ghost-aside && sudo pm2 restart all
